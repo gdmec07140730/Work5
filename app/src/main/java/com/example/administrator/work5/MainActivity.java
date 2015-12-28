@@ -28,6 +28,8 @@ import java.util.TimerTask;
 /**
  * Created by linhao on 15/11/24.
  */
+
+
 public class MainActivity extends Activity {
     private Display currDisplay;
     private SurfaceView surfaceView;
